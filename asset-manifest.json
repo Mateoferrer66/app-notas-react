@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/app-notas-react/static/css/main.8890a19b.css",
+    "main.js": "/app-notas-react/static/js/main.e44c9027.js",
+    "static/media/trash.svg": "/app-notas-react/static/media/trash.e34b6bd7d04bcaf0e5d9ba3056aebd29.svg",
+    "index.html": "/app-notas-react/index.html",
+    "static/media/face_smile.svg": "/app-notas-react/static/media/face_smile.5e67846bc60b416e5aa6a3d335fb9045.svg",
+    "main.8890a19b.css.map": "/app-notas-react/static/css/main.8890a19b.css.map",
+    "main.e44c9027.js.map": "/app-notas-react/static/js/main.e44c9027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8890a19b.css",
+    "static/js/main.e44c9027.js"
+  ]
+}
