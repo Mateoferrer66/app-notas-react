@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: conic-gradient(from 128.43deg at 49.87% 60.97%, #05FF00 -114.25deg, #FAFF00 56.09deg, #FAFF00 81.53deg, #FAFF00 212.48deg, #05FF00 245.75deg, #FAFF00 416.09deg);
+
+
+  
+  color: #1E1E1F;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+
+
