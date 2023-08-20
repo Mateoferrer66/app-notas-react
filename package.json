@@ -30,6 +30,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "/Users/mateo/OneDrive/Escritorio/2023/cursoreactplatzi/curso-react-intro-main/curso-react-intro-main/build/"
-
+  "homepage": "https://Mateoferrer66.github.io/app-notas-react",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
